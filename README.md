@@ -23,11 +23,11 @@ The dataset example is shown like below :
 
 We trained our model using 3 pretrained model : **Resnet50**, **MobilenetV2**, and **InceptionV3**. We train using 20 epochs and datasplit of **80 : 20**.
 
-| Model      | Accuracy |  | F1 |          
-|------------------|-------|-------|
-| InceptionV3         | 0.907   | 0.907   |
-| Resnet50         | 0.863   | 0.863   |
-| Resnet50         | 0.195   | 0.235   |
+| Model          | Accuracy | F1    |          
+| -------------- | -------- | ----- |
+| InceptionV3    | 0.907    | 0.907 |
+| ResNet50       | 0.863    | 0.863 |
+| AnotherModel   | 0.195    | 0.235 |
 
 **MobileNetV2** outperform other pretrained model with an amazing score of 0.907 for both accuracy and F1 score. So this is the model that we weill use to classify our model.
 

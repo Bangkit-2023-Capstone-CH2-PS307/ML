@@ -11,8 +11,9 @@ Nutrikita utilizing Tensorflow to develop it's two main feature, Food Reccomenda
 ## 2. Food Nutritient Recomendation 
 ### Dataset
 The dataset for this feature are collected manually from google images. We collect 11 food category with the specific detail as below 
-Food Class | Bread |  Bubur | Cheese | Daging Cincang | Gambar agar agar | Kentang | Olahan Ikan | Susu | Telur | Wortel | Yogurt |
---- | --- | --- | --- |--- | --- |--- | --- |--- | --- |--- |
- 192 | 168 | 136 | 192 | 180 | 194 | 193 | 184 | 190 | 76 | 198 |
+| Food Class       | Bread | Bubur | Cheese | Daging Cincang | Gambar agar agar | Kentang | Olahan Ikan | Susu | Telur | Wortel | Yogurt |
+|------------------|-------|-------|--------|-----------------|-------------------|---------|--------------|------|-------|--------|--------|
+| Quantity         | 192   | 168   | 136    | 192             | 180               | 194     | 193          | 184  | 190   | 76     | 198    |
+
 
 
